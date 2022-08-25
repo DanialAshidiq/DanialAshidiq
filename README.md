@@ -33,7 +33,7 @@ Real-time Analytics in Online Shopping Websites**
 - Software: Hadoop Cluster in virtualbox (set-up by school), Python PyCharm
 - Filename: MapReduceCode(Java), sourceCode(Twitter-scraper)
 
-**Project: Human Resources Mobile App with Advanced Features(Machine Learning Chatbot)
+**Project: Human Resources Mobile App with Advanced Features(Machine Learning Chatbot)**
 - Programming Language used: Python, Java(Kotlin)
 - Software: Android Studio, PyCharm, Firebase, API(Heroku)
 - Filename: ict2105-team18-main
