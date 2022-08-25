@@ -36,4 +36,4 @@ Real-time Analytics in Online Shopping Websites**
 **Project: Human Resources Mobile App with Advanced Features(Machine Learning Chatbot)**
 - Programming Language used: Python, Java(Kotlin)
 - Software: Android Studio, PyCharm, Firebase, API(Heroku)
-- Filename: ict2105-team18-main
+- Filename: ict2105-team18-2022-main
