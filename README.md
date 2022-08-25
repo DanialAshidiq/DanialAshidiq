@@ -1,10 +1,10 @@
 # DanialAshidiq
 
 
-MSP432 in creating a Robotic Car
-Programming Language Used: C programming language
-Software: Code Composer Studio
-Filename: P2_T8_Source Code
+**MSP432 in creating a Robotic Car**
+- Programming Language Used: C programming language
+- Software: Code Composer Studio
+- Filename: P2_T8_Source Code
 
 
 Snake Game
